@@ -1,4 +1,4 @@
-# --------------
+# i cloned it from remote server to my machine
 # Code starts here
 class_1=['Geoffrey Hinton','Andrew Ng','Sebastian Raschka','Yoshua Bengio']
 class_2=['Hilary Mason','Carla Gentry','Corinna Cortes']
